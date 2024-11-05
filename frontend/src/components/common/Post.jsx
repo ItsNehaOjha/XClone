@@ -7,6 +7,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Post = ({ post }) => {
+	console.log("Post data:", post); 
 	const [comment, setComment] = useState("");
 	const postOwner = post.user;
 	const isLiked = false;
@@ -25,7 +26,7 @@ const Post = ({ post }) => {
 
 	const handleLikePost = () => {};
 
-	return (
+	return ( 
 		<>
 			<div className='flex gap-2 items-start p-4 border-b border-gray-700'>
 				<div className='avatar'>

@@ -1,5 +1,4 @@
-/* eslint-disable react/jsx-no-undef */
-/* eslint-disable no-unused-vars */
+
 import { Route,Routes,Navigate  } from "react-router-dom";
 import HomePage from "./pages/home/HomePage";
 import SignUpPage from "./pages/auth/signup/SignUpPage";
