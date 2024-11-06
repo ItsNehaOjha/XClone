@@ -1,6 +1,6 @@
 # MERN Stack Project:  Twitter clone
 
-![Demo App](https://ibb.co/0tW4fCJ)
+<img src="https://i.ibb.co/Wtd8ckK/Twitter-Clone-SS.png" alt="Demo App" width="800px" />
 
 Some Features:
 
