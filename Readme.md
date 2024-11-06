@@ -1,4 +1,4 @@
-# MERN Stack Project:  Twitter clone live at: <a href="https://xclone-5r9e.onrender.com/" target="_blank">XClone</a>
+# MERN Stack Project:  Twitter clone live at: <a href="https://xclone-5r9e.onrender.com/" target="_blank" rel="noopener noreferrer">XClone</a>
 
 <img src="https://i.ibb.co/Wtd8ckK/Twitter-Clone-SS.png" alt="Demo App" width="800px" />
 
